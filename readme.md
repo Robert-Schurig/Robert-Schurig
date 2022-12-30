@@ -1,6 +1,11 @@
-# Welcome to my Profile!
-My name is Robert. I did different things so far and still do different things. Now, I'm programming or at least I am trying to. 
-![green trees on brown grass field during daytime](https://cdn.pixabay.com/photo/2015/12/01/20/28/forest-1072828_1280.jpg)
-1. Motivated
-2. Well-balanced
-3. Curious
+# <p align="center">Welcome to my github-Profile!</p>
+
+<img src="https://tenor.com/de/view/coding-gif-24297652.gif" />
+
+
+
+My name is Robert. I had different jobs over the years. Now, I'm programming or at least I am trying to. 
+
+What I did:
+- waiter on events
+- 
